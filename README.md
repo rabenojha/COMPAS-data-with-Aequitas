@@ -1,1 +1,1 @@
-# COMPAS-data-with-Aequitas
+# COMPAS data analysis with Aequitas
